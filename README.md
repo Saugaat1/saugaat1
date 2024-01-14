@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Videos:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
