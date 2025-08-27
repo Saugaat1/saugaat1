@@ -1,30 +1,16 @@
-<h1>Hi, I'm Saugaat! <br/><a href="https://github.com/saugaat1">Technology Support Specialist</a>, <a href="https://www.linkedin.com/in/saugaatg/">Cybersecurity Student</a></h1>
+# Hello, I'm Saugaat Giri
+<a href="www.linkedin.com/in/saugaatg"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
-<h2>📺 YouTube Videos:</h2>
+I am a cybersecurity professisonal with a profound interest in technology and a dedication to solving complex problems.
 
-<h2> 🤳 Connect with me:</h2>
+## Objective
 
-[<img align="left" alt="SaugaatGiri | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SaugaatGiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SaugaatGiri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Cloud Administrator with a specialty in security.
 
-[youtube]: https://youtube.com/@Saugaatg
-[instagram]: https://www.instagram.com/girisaugaat/
-[linkedin]: https://linkedin.com/in/saugaatg
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
